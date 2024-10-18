@@ -3,7 +3,7 @@
     <fullName>cases__c</fullName>
     <externalId>false</externalId>
     <label>cases</label>
-    <precision>18</precision>
+    <precision>19</precision>
     <required>false</required>
     <scale>0</scale>
     <trackFeedHistory>false</trackFeedHistory>
